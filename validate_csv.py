@@ -3,8 +3,8 @@ import os
 
 gene = "PAX6"
 project = "Project:name:idr0070-kerwin-hdbr/experimentA/"
-# path_to_data = "/uod/idr/filesets/idr0070-kerwin-hdbr/20191021-original/HDBR_PAX6"
-path_to_data = "/Users/willadmin/Desktop/IDR/idr0070/data/HDBR_PAX6"
+path_to_data = "/uod/idr/filesets/idr0070-kerwin-hdbr/20191021-original/HDBR_PAX6"
+# path_to_data = "/Users/willadmin/Desktop/IDR/idr0070/data/HDBR_PAX6"
 
 found = []
 not_found = []
