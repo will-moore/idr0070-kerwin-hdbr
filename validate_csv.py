@@ -58,11 +58,12 @@ for root, dirs, files in os.walk(path_to_data):
     for f in files:
         fullpath = os.path.join(root, f)
         if fullpath not in found and (f.endswith('.png') or f.endswith('.jpg')):
-            print(fullpath.replace(path_to_data, ""))
+            print(fullpath.replace(path_to_data, ""), " (on disk, not in csv)")
             not_found.append(fullpath)
             # Check if it's only a case-sensitive mismatch:
             if fullpath.lower() in found_lowercase:
                 idx = found_lowercase.index(fullpath.lower())
-                print('CASE mismatch! In CSV:', found[idx].replace(path_to_data, ""))
+                print(found[idx].replace(path_to_data, ""), " (in csv)")
+            print("\n")
 
 print("Not found in CSV: ", len(not_found))
