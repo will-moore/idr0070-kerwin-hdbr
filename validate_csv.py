@@ -39,12 +39,6 @@ with open('HDBR_PAX6.csv', mode='r') as csv_file:
             continue
         found.append(image_path)
 
-        # TODO - check for img_name.replace('.jpg', '_mapped.png')
-        mapped_png_path = image_path.replace(".jpg", "_mapped.png")
-        if os.path.exists(mapped_png_path):
-            line_count += 1
-            found.append(mapped_png_path)
-
         line_count += 1
     print("Not found on disk: ", len(not_found))
 
@@ -57,7 +51,7 @@ for root, dirs, files in os.walk(path_to_data):
     archive_root = os.path.relpath(root, path_to_data)
     for f in files:
         fullpath = os.path.join(root, f)
-        if fullpath not in found and (f.endswith('.png') or f.endswith('.jpg')):
+        if fullpath not in found and (f.endswith('.jpg') or f.endswith('.mpg')):
             print(fullpath.replace(path_to_data, ""), " (on disk, not in csv)")
             not_found.append(fullpath)
             # Check if it's only a case-sensitive mismatch:
