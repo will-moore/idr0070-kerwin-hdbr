@@ -27,9 +27,6 @@ columns:
   - name: Source Name
     include: true
 
-  - name: Phenotype Annotation Level
-    include: true
-
   - name: Characteristics [Developmental Stage]
     clientname: Developmental Stage
     include: true
