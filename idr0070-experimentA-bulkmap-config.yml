@@ -21,16 +21,37 @@ defaults:
 
 columns:
 
-  - name: Characteristics [Cell Cycle Phase]
-    clientname: Cell Cycle Phase
+  - name: Assay Name
+    include: true
+
+  - name: Source Name
+    include: true
+
+  - name: Phenotype Annotation Level
+    include: true
+
+  - name: Characteristics [Developmental Stage]
+    clientname: Developmental Stage
+    include: true
+
+  - name: Protocol REF
+    include: true
+
+  - name: Comment [Probe]
+    clientname: Probe
+    include: true
+
+  - name: Comment [Image File Comments]
+    clientname: Image File Comments
     include: true
 
   - name: Channels
     include: true
 
-  - name: Has Phenotype
+  - name: Processed Data File
     include: true
-  - name: Phenotype Annotation Level
+
+  - name: Visualisation Method
     include: true
 
 
@@ -46,10 +67,10 @@ columns:
           include: true
 
   - group:
-      namespace: openmicroscopy.org/mapr/cell_line
+      namespace: openmicroscopy.org/mapr/antibody
       columns:
-        - name: Characteristics [Cell Line]
-          clientname: Cell Line
+        - name: Comment [Antibody]
+          clientname: Antibody Identifier
           include: true
 
   - group:
@@ -67,44 +88,6 @@ columns:
           clientname: Gene Symbol
           include: true
           omitempty: false
-
-  - group:
-      namespace: openmicroscopy.org/mapr/gene/supplementary
-      columns:
-        - name: Comment [Gene Symbol Synonyms]
-          clientname: Gene Symbol Synonyms
-          include: true
-        - name: Comment [Gene Annotation Comments]
-          clientname: Gene Annotation Comments
-          include: true
-        - name: Experimental Condition [Antibody Target]
-          clientname: Antibody Target
-          include: true
-        - name: Comment [Targeted Protein]
-          clientname: Targeted Protein
-          include: true
-        - name: Comment [Targeted Protein]
-          clientname: Targeted Protein URL
-          clientvalue: "http://www.ebi.ac.uk/pdbe/entry/
-            search/index?text:{{ value|urlencode }}"
-          include: true
-
-  - group:
-      namespace: openmicroscopy.org/mapr/phenotype
-      columns:
-        - name: Phenotype 1
-          clientname: Phenotype
-          include: true
-        - name: Phenotype 1 Term Name
-          clientname: Phenotype Term Name
-          include: true
-        - name: Phenotype 1 Term Accession
-          clientname: Phenotype Term Accession
-          include: true
-        - name: Phenotype 1 Term Accession
-          clientname: Phenotype Term Accession URL
-          clientvalue: http://www.ebi.ac.uk/cmpo/{{ value|urlencode }}
-          include: true
 
 
 # Advanced options (experimental)
