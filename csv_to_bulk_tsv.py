@@ -43,10 +43,12 @@ with open('idr0070-experimentA-annotation_edit.csv', mode='w') as csv_file:
             #     print("Not found:", image_path)
             #     continue
 
-            target = "%sDataset:name:%s-%s" % (project, gene, stage)
+            dataset = "%s-%s" % (gene, stage)
+            target = "%sDataset:name:%s" % (project, dataset)
             tsv_writer.writerow([target, image_path, new_name])
 
-            # Edit row and write to new csv
+            # Edit rows and write to new csv
+            row[0] = dataset
             row[1] = new_name
             csv_writer.writerow(row)
 
