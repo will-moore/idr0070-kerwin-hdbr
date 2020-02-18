@@ -25,6 +25,7 @@ with open('idr0070-experimentA-annotation_edit.csv', mode='w') as csv_file:
             # ignore first row of CSV (column names)
             if line_count == 0:
                 line_count += 1
+                csv_writer.writerow(row)
                 continue
 
             # Read the columns we need...
