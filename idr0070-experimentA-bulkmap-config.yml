@@ -68,8 +68,16 @@ columns:
   - group:
       namespace: openmicroscopy.org/mapr/antibody
       columns:
-        - name: Comment [Antibody]
-          clientname: Antibody Identifier
+        - name: Experimental Condition [Antibody]
+          clientname: Antibody
+          include: true
+          omitempty: false
+        - name: Antibody Identifier
+          include: true
+          omitempty: false
+        - name: Antibody Identifier
+          clientname: Antibody Identifier URL
+          clientvalue: https://www.ncbi.nlm.nih.gov/nuccore/{{ value|urlencode }}
           include: true
 
   - group:
