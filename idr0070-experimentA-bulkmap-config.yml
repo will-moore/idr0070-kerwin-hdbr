@@ -51,6 +51,8 @@ columns:
   - name: Visualisation Method
     include: true
 
+  - name: Expression Pattern Description
+    include: true
 
   ######################################################################
   # mapr groups
