@@ -7,7 +7,7 @@ path_to_data = "/uod/idr/filesets/idr0070-kerwin-hdbr/20200214-ftp"
 found = []
 not_found = []
 print("Reading CSV...")
-with open('HDBR_PAX6.csv', mode='r') as csv_file:
+with open('idr0070-experimentA-annotation.csv', mode='r') as csv_file:
     csv_reader = csv.reader(csv_file)
     line_count = 0
 
