@@ -34,9 +34,9 @@ path_to_data = os.path.join(path_to_data, batch_dir)
 print('path_to_data', path_to_data)
 
 # Find csv file in dir...
-path_to_csv = os.path.join(os.getcwd(), batch_dir)
+path_to_csv = os.path.join(os.getcwd(), args.batch_dir)
 csv_files = glob.glob(os.path.join(path_to_csv, "*.csv"))
-print('csv_files', csv_files)
+print('csv_files', path_to_csv, csv_files)
 
 found = []
 not_found = []
