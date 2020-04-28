@@ -82,13 +82,13 @@ found_lowercase = [f.lower() for f in found]
 
 print("\nReading images on disk...")
 # iterate all images to find which are not listed above...
-# exts = ['jpg', 'mpg', 'svs', 'scn', 'gif']
+exts = ['jpg', 'mpg', 'svs', 'scn', 'gif']
 not_found = []
 for root, dirs, files in os.walk(path_to_data):
     archive_root = os.path.relpath(root, path_to_data)
     for f in files:
         fullpath = os.path.join(root, f)
-        if fullpath not in found:
+        if fullpath not in found and f.split('.')[-1] in exts:
             print(fullpath, " (on disk, not in csv)")
             not_found.append(fullpath)
             # Check if it's only a case-sensitive mismatch:
