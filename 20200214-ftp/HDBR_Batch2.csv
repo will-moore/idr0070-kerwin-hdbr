@@ -1,0 +1,852 @@
+﻿Dataset Name,Image Name,Assay Name,Source Name,Characteristics [Organism],Term Source 1 REF,Term Source 1 Accession,Characteristics [Developmental Stage],Protocol REF,Experimental Condition [Antibody],Term Source 2 REF,Term Source 2 Accession,Comment [Antibody],Comment [Probe],Comment [Gene Identifier],Comment [Gene Symbol],Comment [Image File Path],Comment [Image File Comments],Channels,Processed Data File,Visualisation Method,Expression Pattern Description
+HDBR_CDH8_ISH,"10878,2,body,CS19,59_2015-11-18 14_31_10.scn",HuDSeN:970,"Embryo 10878, slide 59",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,,NCBITaxon,NM_001796.2,,ENSE00001517688 leading into intron 10-11 on ENST00000394178,ENSG00000150394,CDH8,"HDBR_CDH8_ISH/10878,2,body,CS19,59_2015-11-18 14_31_10.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_CDH8_ISH,"680,2,body,CS22,24_2015-11-18 14_31_38.scn",HuDSeN:970,"Embryo 680, slide 24",Homo sapiens,NCBITaxon,9606,CS22,In situ hybridisation,,NCBITaxon,NM_001796.2,,ENSE00001517688 leading into intron 10-11 on ENST00000394178,ENSG00000150394,CDH8,"HDBR_CDH8_ISH/680,2,body,CS22,24_2015-11-18 14_31_38.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_CITED2_ISH,"10794,1,embryo,CS20,52_2014-07-07 16_15_01.scn",HuDSeN:908,"Embryo 10794, slide 52",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_001168388,,cDNA clone MGC:10574 IMAGE:3640855 1903bp,ENSG00000164442,CITED2,"HDBR_CITED2_ISH/10794,1,embryo,CS20,52_2014-07-07 16_15_01.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_CITED2_ISH,"10794,1,embryo,CS20,58_2014-07-07 16_12_49.scn",HuDSeN:908,"Embryo 10794, slide 58",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_001168388,,cDNA clone MGC:10574 IMAGE:3640855 1903bp,ENSG00000164442,CITED2,"HDBR_CITED2_ISH/10794,1,embryo,CS20,58_2014-07-07 16_12_49.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_CITED2_ISH,"10794,1,embryo,CS20,59_2014-07-07 16_15_45.scn",HuDSeN:908,"Embryo 10794, slide 59",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_001168388,,cDNA clone MGC:10574 IMAGE:3640855 1903bp,ENSG00000164442,CITED2,"HDBR_CITED2_ISH/10794,1,embryo,CS20,59_2014-07-07 16_15_45.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_CITED2_ISH,"10794,1,embryo,CS20,71_2014-07-07 16_18_23.scn",HuDSeN:908,"Embryo 10794, slide 71",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_001168388,,cDNA clone MGC:10574 IMAGE:3640855 1903bp,ENSG00000164442,CITED2,"HDBR_CITED2_ISH/10794,1,embryo,CS20,71_2014-07-07 16_18_23.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_CITED2_ISH,"10848,2,embryo,CS21,78_2014-07-07 16_21_23.scn",HuDSeN:1008,"Embryo 10848, slide 78",Homo sapiens,NCBITaxon,9606,CS21,In situ hybridisation,,NCBITaxon,NM_001168388,,cDNA clone MGC:10574 IMAGE:3640855 1903bp,ENSG00000164442,CITED2,"HDBR_CITED2_ISH/10848,2,embryo,CS21,78_2014-07-07 16_21_23.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_DCHS1_ISH,"11349,9,kidney,13pcw,22_2014-04-29 16_02_22.scn",HuDSeN:885,"Fetal Kidney 11349, slide 22",Homo sapiens,NCBITaxon,9606,13PCW,In situ hybridisation,,NCBITaxon,NM_003737,,Nucleotides 9653 - 10307,ENSG00000166341,DCHS1,"HDBR_DCHS1_ISH/11349,9,kidney,13pcw,22_2014-04-29 16_02_22.scn",Original experimental image,Brightfield,,NBT/BCIP,Kidney (strong)
+HDBR_DCHS1_ISH,"2040,1,front head,9pcw,71_2014-04-29 16_03_34.scn",HuDSeN:882,"Fetus 2040, slide 71",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,NM_003737,,Nucleotides 9653 - 10307,ENSG00000166341,DCHS1,"HDBR_DCHS1_ISH/2040,1,front head,9pcw,71_2014-04-29 16_03_34.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_DONSON_ISH,"1712,1,HEAD,9PCW,42_2018-11-15 15_04_12.scn",HuDSeN:1206,"Fetus 1712, slide 42",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,NM_017613.4,,Nucleotides 1497 - 1715,ENSG00000159147,DONSON,"HDBR_DONSON_ISH/1712,1,HEAD,9PCW,42_2018-11-15 15_04_12.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, eye (strong)"
+HDBR_EFR3A_ISH,"11045,7,kidney,cs22,8_2015-11-19 11_07_47.scn",HuDSeN:984,"Embryo 11045, slide 8",Homo sapiens,NCBITaxon,9606,CS22,In situ hybridisation,,NCBITaxon,NM_015137,,Nucleotides 217 - 602,ENSG00000132294,EFR3A,"HDBR_EFR3A_ISH/11045,7,kidney,cs22,8_2015-11-19 11_07_47.scn",Original experimental image,Brightfield,,NBT/BCIP,Kidney (strong)
+HDBR_EFR3A_ISH,"11221,3,hand,CS22,7_2015-11-18 15_05_58.scn",HuDSeN:979,"Embryo 11221, slide 7",Homo sapiens,NCBITaxon,9606,CS22,In situ hybridisation,,NCBITaxon,NM_015137,,Nucleotides 217 - 602,ENSG00000132294,EFR3A,"HDBR_EFR3A_ISH/11221,3,hand,CS22,7_2015-11-18 15_05_58.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_EFR3A_ISH,"11224,21,limb,CS23,10_2015-11-18 15_37_54.scn",HuDSeN:985,"Embryo 11224, slide 10",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,NM_015137,,Nucleotides 217 - 602,ENSG00000132294,EFR3A,"HDBR_EFR3A_ISH/11224,21,limb,CS23,10_2015-11-18 15_37_54.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_EFR3A_ISH,"11354,8,kidney,CS20,3_2015-11-18 15_58_00.scn",HuDSeN:980,"Embryo 11354, slide3",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_015137,,Nucleotides 217 - 602,ENSG00000132294,EFR3A,"HDBR_EFR3A_ISH/11354,8,kidney,CS20,3_2015-11-18 15_58_00.scn",Original experimental image,Brightfield,,NBT/BCIP,Kidney (strong)
+HDBR_EFR3A_ISH,"11356,20,hand,CS23,7_2015-11-18 15_40_36.scn",HuDSeN:985,"Embryo 11356, slide 7",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,NM_015137,,Nucleotides 217 - 602,ENSG00000132294,EFR3A,"HDBR_EFR3A_ISH/11356,20,hand,CS23,7_2015-11-18 15_40_36.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_EFR3A_ISH,"1272,2,body,CS23,162_2015-11-18 15_36_56.scn",HuDSeN:985,"Embryo 1272, slide 162",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,NM_015137,,Nucleotides 217 - 602,ENSG00000132294,EFR3A,"HDBR_EFR3A_ISH/1272,2,body,CS23,162_2015-11-18 15_36_56.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_EFR3A_ISH,"446,1,embryo,CS20,206_2015-11-18 15_03_59.scn",HuDSeN:980,"Embryo 446, slide 206",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_015137,,Nucleotides 217 - 602,ENSG00000132294,EFR3A,"HDBR_EFR3A_ISH/446,1,embryo,CS20,206_2015-11-18 15_03_59.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_EFR3A_ISH,"680,2,body,CS22,49_2015-11-18 15_54_48.scn",HuDSeN:984,"Embryo 608, slide 49",Homo sapiens,NCBITaxon,9606,CS22,In situ hybridisation,,NCBITaxon,NM_015137,,Nucleotides 217 - 602,ENSG00000132294,EFR3A,"HDBR_EFR3A_ISH/680,2,body,CS22,49_2015-11-18 15_54_48.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_EFR3A_ISH,"968,2,body,CS23,28_2015-11-18 15_35_09.scn",HuDSeN:985,"Embryo 968, slide 28",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,NM_015137,,Nucleotides 217 - 602,ENSG00000132294,EFR3A,"HDBR_EFR3A_ISH/968,2,body,CS23,28_2015-11-18 15_35_09.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_FAT4_ISH,"11243,20,arm,L8pcw,7_2014-07-07 15_56_59.scn",HuDSeN:849,"Fetus 11243, slide 7",Homo sapiens,NCBITaxon,9606,8PCW,In situ hybridisation,,NCBITaxon,NM_024582.4,,ORF sequence,ENSG00000196159,FAT4,"HDBR_FAT4_ISH/11243,20,arm,L8pcw,7_2014-07-07 15_56_59.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_FAT4_ISH,"11352,18,arm,10pcw,24_2014-07-07 15_54_09.scn",HuDSeN:845,"Fetus 11352, slide 2",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,,NCBITaxon,NM_024582.4,,ORF sequence,ENSG00000196159,FAT4,"HDBR_FAT4_ISH/11352,18,arm,10pcw,24_2014-07-07 15_54_09.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_FAT4_ISH,"1173,1,left hemisphere,11pcw,2_2014-07-07 15_46_35.scn",HuDSeN:846,"Fetal brain 1173, slide 2",Homo sapiens,NCBITaxon,9606,11PCW,In situ hybridisation,,NCBITaxon,NM_024582.4,,ORF sequence,ENSG00000196159,FAT4,"HDBR_FAT4_ISH/1173,1,left hemisphere,11pcw,2_2014-07-07 15_46_35.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, choroid plexus (strong)"
+HDBR_FAT4_ISH,"1824,4,ventral brain,10pcw,15_2014-07-07 15_58_50.scn",HuDSeN:845,"Fetal brain 1824, slide 15",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,,NCBITaxon,NM_024582.4,,ORF sequence,ENSG00000196159,FAT4,"HDBR_FAT4_ISH/1824,4,ventral brain,10pcw,15_2014-07-07 15_58_50.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, choroid plexus (strong)"
+HDBR_FAT4_ISH,"2040,1,front head,9pcw,87_2014-07-07 15_55_25.scn",HuDSeN:839,"Fetus 2040, slide 87",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,NM_024582.4,,ORF sequence,ENSG00000196159,FAT4,"HDBR_FAT4_ISH/2040,1,front head,9pcw,87_2014-07-07 15_55_25.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_FAT4_ISH,"243,1,head,10pcw,137_2014-07-07 15_47_11.scn",HuDSeN:845,"Fetus 243, slide 137",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,,NCBITaxon,NM_024582.4,,ORF sequence,ENSG00000196159,FAT4,"HDBR_FAT4_ISH/243,1,head,10pcw,137_2014-07-07 15_47_11.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_FAT4_ISH,"968,1,head,CS23,48_2014-07-07 15_49_56.scn",HuDSeN:840,"Embryo 968, slide 48",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,NM_024582.4,,ORF sequence,ENSG00000196159,FAT4,"HDBR_FAT4_ISH/968,1,head,CS23,48_2014-07-07 15_49_56.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_INSM1_ISH,"10598,2,head,CS20,31_2016-03-17 09_41_49.scn",HuDSeN:1068,"Embryo 10598, slide 31",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10598,2,head,CS20,31_2016-03-17 09_41_49.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10598,2,head,CS20,3_2016-03-17 09_41_50.scn",HuDSeN:1068,"Embryo 10598, slide 31",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10598,2,head,CS20,3_2016-03-17 09_41_50.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10598,2,head,CS20,48_2016-03-17 10_07_48.scn",HuDSeN:1068,"Embryo 10598, slide 48",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10598,2,head,CS20,48_2016-03-17 10_07_48.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10682,1,embryo,CS13,46_2016-03-17 09_43_05.scn",HuDSeN:1065,"Embryo 10682, slide 46",Homo sapiens,NCBITaxon,9606,CS13,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10682,1,embryo,CS13,46_2016-03-17 09_43_05.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10707,6,head,10pcw,142_2016-03-17 09_16_05.scn",HuDSeN:931,"Fetus 10707, slide 142",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10707,6,head,10pcw,142_2016-03-17 09_16_05.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10707,6,head,10pcw,147_2016-03-17 09_16_05.scn",HuDSeN:931,"Fetus 10707, slide 147",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10707,6,head,10pcw,147_2016-03-17 09_16_05.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10715,2,body,CS15,59_2016-03-17 09_20_24.scn",HuDSeN:1208,"Embryo 10715, slide 59",Homo sapiens,NCBITaxon,9606,CS15,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10715,2,body,CS15,59_2016-03-17 09_20_24.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10733,4,embryo,cs16,67_2016-03-16 14_52_37.scn",HuDSeN:369,"Embryo 10733, slide 67",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10733,4,embryo,cs16,67_2016-03-16 14_52_37.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10734,1,head,CS20,10_2016-03-17 10_21_37.scn",HuDSeN:1068,"Embryo 10734, slide 10",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10734,1,head,CS20,10_2016-03-17 10_21_37.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10734,1,head,CS20,14_2016-03-16 14_54_45.scn",HuDSeN:1068,"Embryo 10734, slide 14",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10734,1,head,CS20,14_2016-03-16 14_54_45.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10734,1,head,CS20,15_2016-03-16 14_56_30.scn",HuDSeN:1068,"Embryo 10734, slide 15",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10734,1,head,CS20,15_2016-03-16 14_56_30.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10734,1,head,CS20,6_2016-03-17 09_43_08.scn",HuDSeN:1068,"Embryo 10734, slide 6 ",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10734,1,head,CS20,6_2016-03-17 09_43_08.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10794,1,embryo,CS20,29_2016-03-16 12_28_16.scn",HuDSeN:370,"Embryo 10794, slide 29",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10794,1,embryo,CS20,29_2016-03-16 12_28_16.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10794,1,embryo,CS20,72_2016-03-16 12_35_11.scn",HuDSeN:370,"Embryo 10794, slide 72",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10794,1,embryo,CS20,72_2016-03-16 12_35_11.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10794,1,embryo,CS20,76_2016-03-16 12_35_07.scn",HuDSeN:370,"Embryo 10794, slide 76",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10794,1,embryo,CS20,76_2016-03-16 12_35_07.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10805,1,head,CS19,4_2016-03-16 12_11_34.scn",HuDSeN:1067,"Embryo 10805, slide 4",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10805,1,head,CS19,4_2016-03-16 12_11_34.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10805,1,head,CS19,5_2016-03-16 12_30_55.scn",HuDSeN:1067,"Embryo 10805, slide 5",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10805,1,head,CS19,5_2016-03-16 12_30_55.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10840,1,head,CS17,12_2016-03-16 14_28_26.scn",HuDSeN:1066,"Embryo 10840, slide 12",Homo sapiens,NCBITaxon,9606,CS17,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10840,1,head,CS17,12_2016-03-16 14_28_26.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10846,6,head,CS20,78_2016-03-16 12_06_29.scn",HuDSeN:1068,"Embryo 10846, slide 78",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10846,6,head,CS20,78_2016-03-16 12_06_29.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10848,1,head,cs21,118_2016-03-16 12_06_31.scn",HuDSeN:372,"Embryo 10848, slide 118",Homo sapiens,NCBITaxon,9606,CS21,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10848,1,head,cs21,118_2016-03-16 12_06_31.scn",Original experimental image,Brightfield,,NBT/BCIP,"Neural tissue, lung (strong)"
+HDBR_INSM1_ISH,"10867,3,head,9pcw,42_2016-03-16 12_07_29.scn",HuDSeN:930,"Embryo 10867, slide 42",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10867,3,head,9pcw,42_2016-03-16 12_07_29.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10871,1,body,cs16,31_2016-03-16 11_56_20.scn",HuDSeN:368,"Embryo 10871, slide 31",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10871,1,body,cs16,31_2016-03-16 11_56_20.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10875,1,head,CS20,30_2016-03-16 11_58_39.scn",HuDSeN:371,"Embryo 10875, slide 30",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10875,1,head,CS20,30_2016-03-16 11_58_39.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10875,1,head,CS20,37_2016-03-16 11_58_25.scn",HuDSeN:371,"Embryo 10875, slide 37",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10875,1,head,CS20,37_2016-03-16 11_58_25.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10875,1,head,CS20,63_2016-03-16 11_57_27.scn",HuDSeN:371,"Embryo 10875, slide 63",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10875,1,head,CS20,63_2016-03-16 11_57_27.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10875,1,head,CS20,78_2016-03-16 11_57_24.scn",HuDSeN:371,"Embryo 10875, slide 78",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10875,1,head,CS20,78_2016-03-16 11_57_24.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10875,1,head,CS20,79_2016-03-16 11_56_22.scn",HuDSeN:371,"Embryo 10875, slide 79",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10875,1,head,CS20,79_2016-03-16 11_56_22.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10878,3,head,CS19,25_2016-03-16 11_32_54.scn",HuDSeN:1067,"Embryo 10878, slide 25",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10878,3,head,CS19,25_2016-03-16 11_32_54.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"10878,3,head,CS19,5_2016-03-16 11_34_08.scn",HuDSeN:1067,"Embryo 10878, slide 5",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/10878,3,head,CS19,5_2016-03-16 11_34_08.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"268,1,head,9pcw,108_2016-03-17 10_23_34.scn",HuDSeN:930,"Fetus 268, slide 108",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/268,1,head,9pcw,108_2016-03-17 10_23_34.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"268,1,head,9pcw,186_2016-03-17 10_21_38.scn",HuDSeN:930,"Fetus 268, slide 186",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/268,1,head,9pcw,186_2016-03-17 10_21_38.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"392,1,head,9pcw,107_2016-03-17 10_03_23.scn",HuDSeN:930,"Fetus 392, slide 107",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/392,1,head,9pcw,107_2016-03-17 10_03_23.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_INSM1_ISH,"392,1,head,9pcw,112_2016-03-17 10_03_23.scn",HuDSeN:930,"Fetus 392, slide 112",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,NM_002196,,Nucleotides 440 - 660,ENSG00000173404,INSM1,"HDBR_INSM1_ISH/392,1,head,9pcw,112_2016-03-17 10_03_23.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_IRX1_ISH,"10809,1,head,l8pcw,26_2015-11-19 11_49_43.scn",HuDSeN:1003,"Fetus, 10809, slide 26",Homo sapiens,NCBITaxon,9606,8PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10809,1,head,l8pcw,26_2015-11-19 11_49_43.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10817,4,body,cs22,6_2015-11-19 11_39_05.scn",HuDSeN:1001,"Embryo 10817, slide 6",Homo sapiens,NCBITaxon,9606,CS22,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10817,4,body,cs22,6_2015-11-19 11_39_05.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10823,5,hand,10pcw,19_2015-11-18 15_11_49.scn",HuDSeN:1005,"Fetus 10823, slide 19",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10823,5,hand,10pcw,19_2015-11-18 15_11_49.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10853,5,hand,CS21,4_2015-11-19 11_47_40.scn",HuDSeN:1000,"Embryo 10853, slide 4",Homo sapiens,NCBITaxon,9606,CS21,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10853,5,hand,CS21,4_2015-11-19 11_47_40.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10860,6,hand,11pcw,24_2015-11-19 11_40_51.scn",HuDSeN:1006,"Fetus 10860, slide 24",Homo sapiens,NCBITaxon,9606,11PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10860,6,hand,11pcw,24_2015-11-19 11_40_51.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10860,6,hand,11pcw,29_2015-11-19 11_40_18.scn",HuDSeN:1006,"Fetus 10860, slide 29",Homo sapiens,NCBITaxon,9606,11PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10860,6,hand,11pcw,29_2015-11-19 11_40_18.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10883,9,hand,10pcw,33_2015-11-19 11_41_23.scn",HuDSeN:1005,"Fetus 10883, slide 33",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10883,9,hand,10pcw,33_2015-11-19 11_41_23.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10886,12,hand,CS23,16_2015-11-19 11_42_16.scn",HuDSeN:1002,"Embryo 10886, slide 16",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10886,12,hand,CS23,16_2015-11-19 11_42_16.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10893,5,hand,9pcw,23_2015-11-19 11_42_41.scn",HuDSeN:1004,"Fetus 10893, slide 23",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10893,5,hand,9pcw,23_2015-11-19 11_42_41.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10898,6,hand,L8pcw,28_2015-11-19 11_42_45.scn",HuDSeN:1003,"Fetus 10898, slide 28",Homo sapiens,NCBITaxon,9606,8PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10898,6,hand,L8pcw,28_2015-11-19 11_42_45.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10907,12,hand,CS23,15_2015-11-18 15_46_33.scn",HuDSeN:1002,"Embryo 10907, slide 15",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10907,12,hand,CS23,15_2015-11-18 15_46_33.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10910,14,hand,11pcw,34_2015-11-19 11_43_28.scn",HuDSeN:1006,"Fetus 10910, slide 34",Homo sapiens,NCBITaxon,9606,11PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10910,14,hand,11pcw,34_2015-11-19 11_43_28.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10918,8,hand,12pcw,29_2015-11-18 15_53_01.scn",HuDSeN:1007,"Fetus 10918, slide 29",Homo sapiens,NCBITaxon,9606,12PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10918,8,hand,12pcw,29_2015-11-18 15_53_01.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"10920,6,hand,9pcw,19_2015-11-19 11_43_43.scn",HuDSeN:1004,"Fetus 10920, slide 19",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/10920,6,hand,9pcw,19_2015-11-19 11_43_43.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"11057,21,arm,CS23,3_2015-11-18 16_01_03.scn",HuDSeN:1002,"Embryo 1057, slide 3",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/11057,21,arm,CS23,3_2015-11-18 16_01_03.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"11224,21,limb,CS23,14_2015-11-19 12_58_28.scn",HuDSeN:1002,"Embryo 11224, slide 14",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/11224,21,limb,CS23,14_2015-11-19 12_58_28.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"11224,22,limb,CS23,13_2015-11-19 13_04_07.scn",HuDSeN:1002,"Embryo 11224, slide 13",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/11224,22,limb,CS23,13_2015-11-19 13_04_07.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"11226,12,L. Foot,9pcw,21_2018-10-18 14_55_44.scn",HuDSeN:1004,"Fetus 11226, slide 21",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/11226,12,L. Foot,9pcw,21_2018-10-18 14_55_44.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"11237,11,arm,CS20,33_2015-11-19 13_03_14.scn",HuDSeN:999,"Embryo 11237, slide 33",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/11237,11,arm,CS20,33_2015-11-19 13_03_14.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"11243,20,arm,L8pcw,1_2015-11-19 13_00_00.scn",HuDSeN:1003,"Fetus 11243, slide 1",Homo sapiens,NCBITaxon,9606,8PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/11243,20,arm,L8pcw,1_2015-11-19 13_00_00.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"11352,18,arm,10pcw,18_2015-11-19 12_58_29.scn",HuDSeN:1005,"Fetus 11352, slide 18",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/11352,18,arm,10pcw,18_2015-11-19 12_58_29.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"11356,20,hand,CS23,1_2015-11-19 13_07_11.scn",HuDSeN:1002,"Embryo 11356, slide 1",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/11356,20,hand,CS23,1_2015-11-19 13_07_11.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"680,2,body,CS22,4_2015-11-18 15_08_38.scn",HuDSeN:1001,"Embryo 680, slide 4",Homo sapiens,NCBITaxon,9606,CS22,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/680,2,body,CS22,4_2015-11-18 15_08_38.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,"680,2,body,CS22,8_2015-11-19 11_08_39.scn",HuDSeN:1001,"Embryo 680, slide 8",Homo sapiens,NCBITaxon,9606,CS22,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,"HDBR_IRX1_ISH/680,2,body,CS22,8_2015-11-19 11_08_39.scn",Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_IRX1_ISH,Autotest_0000013481_2015-11-19 11_09_37.scn,HuDSeN:1003,"Fetus 10775, slide 6",Homo sapiens,NCBITaxon,9606,8PCW,In situ hybridisation,,NCBITaxon,BC029160,,1609 bp fragment,ENSG00000170549,IRX1,HDBR_IRX1_ISH/Autotest_0000013481_2015-11-19 11_09_37.scn,Original experimental image,Brightfield,,NBT/BCIP,"Bone, skin (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,106_2019-05-17 09_46_50.scn",HuDSeN:1207,"Embryo 11613, slide 106",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,106_2019-05-17 09_46_50.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, brain, liver (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,132_2019-05-17 09_46_45.scn",HuDSeN:1207,"Embryo 11613, slide 132",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,132_2019-05-17 09_46_45.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, brain, liver (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,157_2019-05-17 09_44_59.scn",HuDSeN:1207,"Embryo 11613, slide 157",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,157_2019-05-17 09_44_59.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, brain, liver, lung (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,183_2019-05-17 09_44_51.scn",HuDSeN:1207,"Embryo 11613, slide 183",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,183_2019-05-17 09_44_51.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, eye, stomach, heart (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,208_2019-05-17 09_41_59.scn",HuDSeN:1207,"Embryo 11613, slide 208",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,208_2019-05-17 09_41_59.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, stomach, heart, kidney (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,232_2019-05-17 09_42_21.scn",HuDSeN:1207,"Embryo 11613, slide 232",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,232_2019-05-17 09_42_21.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, intestine, heart, kidney (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,257_2019-05-17 10_39_34.scn",HuDSeN:1207,"Embryo 11613, slide 257",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,257_2019-05-17 10_39_34.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, intestine, heart, kidney (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,283_2019-05-17 09_40_11.scn",HuDSeN:1207,"Embryo 11613, slide 283",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,283_2019-05-17 09_40_11.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, intestine, heart, kidney (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,32_2019-05-17 09_49_05.scn",HuDSeN:1207,"Embryo 11613, slide 32",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,32_2019-05-17 09_49_05.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,334_2019-05-17 09_58_56.scn",HuDSeN:1207,"Embryo 11613, slide 334",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,334_2019-05-17 09_58_56.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, intestine, heart (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,359_2019-05-17 09_57_53.scn",HuDSeN:1207,"Embryo 11613, slide 359",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,359_2019-05-17 09_57_53.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, intestine, heart (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,384_2019-05-17 09_56_52.scn",HuDSeN:1207,"Embryo 11613, slide 384",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,384_2019-05-17 09_56_52.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, intestine, heart, kidney (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,409_2019-05-17 09_55_18.scn",HuDSeN:1207,"Embryo 11613, slide 409",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,409_2019-05-17 09_55_18.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, intestine,  kidney (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,434_2019-05-17 09_54_48.scn",HuDSeN:1207,"Embryo 11613, slide 434",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,434_2019-05-17 09_54_48.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, intestine,  kidney (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,459_2019-05-17 09_53_24.scn",HuDSeN:1207,"Embryo 11613, slide 459",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,459_2019-05-17 09_53_24.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, lung, intestine, eye (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,484_2019-05-17 09_52_46.scn",HuDSeN:1207,"Embryo 11613, slide 484",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,484_2019-05-17 09_52_46.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, eye (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,509_2019-05-17 09_51_12.scn",HuDSeN:1207,"Embryo 11613, slide 509",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,509_2019-05-17 09_51_12.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver, eye (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,534_2019-05-17 09_51_10.scn",HuDSeN:1207,"Embryo 11613, slide 534",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,534_2019-05-17 09_51_10.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue, liver (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,559_2019-05-17 09_50_08.scn",HuDSeN:1207,"Embryo 11613, slide 559",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,559_2019-05-17 09_50_08.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin, neural tissue (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,57_2019-05-17 09_48_23.scn",HuDSeN:1207,"Embryo 11613, slide 57",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,57_2019-05-17 09_48_23.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,584_2019-05-17 09_50_06.scn",HuDSeN:1207,"Embryo 11613, slide 584",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,584_2019-05-17 09_50_06.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,609_2019-05-17 09_49_31.scn",HuDSeN:1207,"Embryo 11613, slide 609",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,609_2019-05-17 09_49_31.scn",Original experimental image,Brightfield,,DAB,"Muscle, skin (strong)"
+HDBR_ISL1_CS23_IHC,"11613,1,Embryo,CS23,83_2019-05-17 09_48_19.scn",HuDSeN:1207,"Embryo 11613, slide 83",Homo sapiens,NCBITaxon,9606,CS23,Immunohistochemistry,ISL1,NCBITaxon,NM_002202,Sigma SAB5300443,,ENSG00000016082,ISL1,"HDBR_ISL1_CS23_IHC/11613,1,Embryo,CS23,83_2019-05-17 09_48_19.scn",Original experimental image,Brightfield,,DAB,"muscle, skin, brain (strong)"
+HDBR_LHX3_ISH,"10639,2,body,CS15,197_2016-03-17 15_54_12.scn",HuDSeN:448,"Embryo 10639, slide 197",Homo sapiens,NCBITaxon,9606,CS15,In situ hybridisation,LHX3,NCBITaxon,NM_001363746,,Nucleotides 22463 - 21887,ENSG00000107187,LHX3,"HDBR_LHX3_ISH/10639,2,body,CS15,197_2016-03-17 15_54_12.scn",Original experimental image,Brightfield,,NBT/BCIP,Spinal cord (strong)
+HDBR_LHX3_ISH,"10733,4,embryo,CS16,73_2016-03-17 15_49_53.scn",HuDSeN:448,"Embryo 10733, slide 73",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,LHX3,NCBITaxon,NM_001363746,,Nucleotides 22463 - 21887,ENSG00000107187,LHX3,"HDBR_LHX3_ISH/10733,4,embryo,CS16,73_2016-03-17 15_49_53.scn",Original experimental image,Brightfield,,NBT/BCIP,Spinal cord (strong)
+HDBR_LHX3_ISH,"10787,1,embryo,CS13,73_2016-03-17 15_49_55.scn",HuDSeN:448,"Embryo 10787, slide 73",Homo sapiens,NCBITaxon,9606,CS13,In situ hybridisation,LHX3,NCBITaxon,NM_001363746,,Nucleotides 22463 - 21887,ENSG00000107187,LHX3,"HDBR_LHX3_ISH/10787,1,embryo,CS13,73_2016-03-17 15_49_55.scn",Original experimental image,Brightfield,,NBT/BCIP,Spinal cord (strong)
+HDBR_LHX3_ISH,"10878,2,body,CS19,31_2016-03-17 15_50_18.scn",HuDSeN:448,"Embryo 10878, slide 31",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,LHX3,NCBITaxon,NM_001363746,,Nucleotides 22463 - 21887,ENSG00000107187,LHX3,"HDBR_LHX3_ISH/10878,2,body,CS19,31_2016-03-17 15_50_18.scn",Original experimental image,Brightfield,,NBT/BCIP,Spinal cord (strong)
+HDBR_LRRTM1_ISH,"392,1,head,9pcw,100_2014-07-09 15_41_48.scn",HuDSeN:945,"Fetus 392, slide 100",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,LRRTM1,NCBITaxon,NM_178839,,Nucleotides 1158 - 1578,ENSG00000162951,LRRTM1,"HDBR_LRRTM1_ISH/392,1,head,9pcw,100_2014-07-09 15_41_48.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, bone (strong)"
+HDBR_LRRTM1_ISH,"392,1,head,9pcw,134_2014-07-09 15_45_45.scn",HuDSeN:945,"Fetus 392, slide 134",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,LRRTM1,NCBITaxon,NM_178839,,Nucleotides 1158 - 1578,ENSG00000162951,LRRTM1,"HDBR_LRRTM1_ISH/392,1,head,9pcw,134_2014-07-09 15_45_45.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, bone (strong)"
+HDBR_LRRTM1_ISH,"392,1,head,9pcw,140_2014-07-11 12_16_44.scn",HuDSeN:945,"Fetus 392, slide 140",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,LRRTM1,NCBITaxon,NM_178839,,Nucleotides 1158 - 1578,ENSG00000162951,LRRTM1,"HDBR_LRRTM1_ISH/392,1,head,9pcw,140_2014-07-11 12_16_44.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, bone (strong)"
+HDBR_LRRTM1_ISH,"392,1,head,9pcw,143_2014-07-09 15_49_24.scn",HuDSeN:945,"Fetus 392, slide 143",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,LRRTM1,NCBITaxon,NM_178839,,Nucleotides 1158 - 1578,ENSG00000162951,LRRTM1,"HDBR_LRRTM1_ISH/392,1,head,9pcw,143_2014-07-09 15_49_24.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, bone (strong)"
+HDBR_LRRTM1_ISH,"392,1,head,9pcw,244_2014-07-11 12_02_00.scn",HuDSeN:945,"Fetus 392, slide 244",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,LRRTM1,NCBITaxon,NM_178839,,Nucleotides 1158 - 1578,ENSG00000162951,LRRTM1,"HDBR_LRRTM1_ISH/392,1,head,9pcw,244_2014-07-11 12_02_00.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, bone (strong)"
+HDBR_LRRTM1_ISH,"392,1,head,9pcw,258_2014-07-07 15_36_36.scn",HuDSeN:945,"Fetus 392, slide 258",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,LRRTM1,NCBITaxon,NM_178839,,Nucleotides 1158 - 1578,ENSG00000162951,LRRTM1,"HDBR_LRRTM1_ISH/392,1,head,9pcw,258_2014-07-07 15_36_36.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, bone (strong)"
+HDBR_LRRTM1_ISH,"392,1,head,9pcw,313_2014-07-11 12_01_39.scn",HuDSeN:945,"Fetus 392, slide 313",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,LRRTM1,NCBITaxon,NM_178839,,Nucleotides 1158 - 1578,ENSG00000162951,LRRTM1,"HDBR_LRRTM1_ISH/392,1,head,9pcw,313_2014-07-11 12_01_39.scn",Original experimental image,Brightfield,,NBT/BCIP,"Brain, bone (strong)"
+HDBR_NEUROD1_ISH,"1823,1,DORSAL BRAIN,12 PCW,26_2018-11-15 15_48_47.scn",HuDSeN:1209,"Fetal brain 1823, slide 26",Homo sapiens,NCBITaxon,9606,12PCW,In situ hybridisation,NEUROD1,NCBITaxon,NM_002500,,Nucleotides 249 - 714,ENSG00000162992,NEUROD1,"HDBR_NEUROD1_ISH/1823,1,DORSAL BRAIN,12 PCW,26_2018-11-15 15_48_47.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_NEUROD1_ISH,"1824,3,VENTRAL BRAIN,10 PCW,12_2018-11-15 15_59_42.scn",HuDSeN:1209,"Fetal brain 1824, slide 12",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,NEUROD1,NCBITaxon,NM_002500,,Nucleotides 249 - 714,ENSG00000162992,NEUROD1,"HDBR_NEUROD1_ISH/1824,3,VENTRAL BRAIN,10 PCW,12_2018-11-15 15_59_42.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_NEUROD1_ISH,"1824,4,FRONTAL BRAIN,10 PCW,4_2018-11-15 15_54_11.scn",HuDSeN:1209,"Fetal brain 1824, slide 4",Homo sapiens,NCBITaxon,9606,10PCW,In situ hybridisation,NEUROD1,NCBITaxon,NM_002500,,Nucleotides 249 - 714,ENSG00000162992,NEUROD1,"HDBR_NEUROD1_ISH/1824,4,FRONTAL BRAIN,10 PCW,4_2018-11-15 15_54_11.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_NEUROD1_ISH,"1947,1,BRAIN SLICE 1,9 PCW,25_2018-11-15 16_03_13.scn",HuDSeN:1209,"Fetal brain 1947, slice 1, slide 25",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,NEUROD1,NCBITaxon,NM_002500,,Nucleotides 249 - 714,ENSG00000162992,NEUROD1,"HDBR_NEUROD1_ISH/1947,1,BRAIN SLICE 1,9 PCW,25_2018-11-15 16_03_13.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_NEUROD1_ISH,"1947,3,BRAIN SLICE 2,9 PCW,25_2018-11-16 13_22_06.scn",HuDSeN:1209,"Fetal brain 1947, slice 2, slide 25",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,NEUROD1,NCBITaxon,NM_002500,,Nucleotides 249 - 714,ENSG00000162992,NEUROD1,"HDBR_NEUROD1_ISH/1947,3,BRAIN SLICE 2,9 PCW,25_2018-11-16 13_22_06.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_NEUROD1_ISH,"2040,1,FRONT HEAD,9 PCW,57_2018-11-15 16_11_59.scn",HuDSeN:1209,"Fetus 2040, slide 57",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,NEUROD1,NCBITaxon,NM_002500,,Nucleotides 249 - 714,ENSG00000162992,NEUROD1,"HDBR_NEUROD1_ISH/2040,1,FRONT HEAD,9 PCW,57_2018-11-15 16_11_59.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_NEUROD1_ISH,"2040,1,FRONT HEAD,9 PCW,70_2018-11-15 16_17_10.scn",HuDSeN:1209,"Fetus 2040, slide 70",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,NEUROD1,NCBITaxon,NM_002500,,Nucleotides 249 - 714,ENSG00000162992,NEUROD1,"HDBR_NEUROD1_ISH/2040,1,FRONT HEAD,9 PCW,70_2018-11-15 16_17_10.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_PBX1_ISH,"10794,1,embryo,CS20,75_2014-07-07 16_34_05.scn",HuDSeN:914,"Embryo 10794, slide 75",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,PBX1,NCBITaxon,NM_002585,,BC101578,ENSG00000185630,PBX1,"HDBR_PBX1_ISH/10794,1,embryo,CS20,75_2014-07-07 16_34_05.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_PBX1_ISH,"10816,0,body,CS16,56_2014-07-07 16_36_17.scn",HuDSeN:913,"Embryo 10816, slide 56",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,PBX1,NCBITaxon,NM_002585,,BC101578,ENSG00000185630,PBX1,"HDBR_PBX1_ISH/10816,0,body,CS16,56_2014-07-07 16_36_17.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_PBX1_ISH,"10906,5,liver,CS23,56_2014-07-07 16_41_45.scn",HuDSeN:913,"Embryo 10906, slide 56",Homo sapiens,NCBITaxon,9606,CS23,In situ hybridisation,PBX1,NCBITaxon,NM_002585,,BC101578,ENSG00000185630,PBX1,"HDBR_PBX1_ISH/10906,5,liver,CS23,56_2014-07-07 16_41_45.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_PBX1_ISH,"10919,1,head,CS20,57_2014-07-07 16_43_03.scn",HuDSeN:914,"Embryo 10919, slide 57",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,PBX1,NCBITaxon,NM_002585,,BC101578,ENSG00000185630,PBX1,"HDBR_PBX1_ISH/10919,1,head,CS20,57_2014-07-07 16_43_03.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_RIMS1_ISH,"392,1,head,9pcw,205_2016-03-17 14_48_26.scn",HuDSeN:943,"Fetus 392, slide 205",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,RIMS1,NCBITaxon,NM_014989,,Nucleotides 590 - 995 of AB002338,ENSG00000079841,RIMS1,"HDBR_RIMS1_ISH/392,1,head,9pcw,205_2016-03-17 14_48_26.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_RIMS1_ISH,"392,1,head,9pcw,330_2016-03-17 15_09_42.scn",HuDSeN:943,"Fetus 392, slide 330",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,RIMS1,NCBITaxon,NM_014989,,Nucleotides 590 - 995 of AB002338,ENSG00000079841,RIMS1,"HDBR_RIMS1_ISH/392,1,head,9pcw,330_2016-03-17 15_09_42.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_RIMS1_ISH,"392,1,head,9pcw,338_2016-03-17 15_34_01.scn",HuDSeN:943,"Fetus 392, slide 338",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,RIMS1,NCBITaxon,NM_014989,,Nucleotides 590 - 995 of AB002338,ENSG00000079841,RIMS1,"HDBR_RIMS1_ISH/392,1,head,9pcw,338_2016-03-17 15_34_01.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_RIMS1_ISH,"392,1,head,9pcw,344_2016-03-17 15_29_49.scn",HuDSeN:943,"Fetus 392, slide 344",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,RIMS1,NCBITaxon,NM_014989,,Nucleotides 590 - 995 of AB002338,ENSG00000079841,RIMS1,"HDBR_RIMS1_ISH/392,1,head,9pcw,344_2016-03-17 15_29_49.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SERPINI2_ISH,"10145,1,Head,CS19,3_2018-10-18 16_12_42.scn",HuDSeN:1210,"Embryo 10145, slide 3",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,SERPNI2,NCBITaxon,NM_006217,,,ENSG00000114204,SERPINI2,"HDBR_SERPINI2_ISH/10145,1,Head,CS19,3_2018-10-18 16_12_42.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SERPINI2_ISH,"10243,1,Head,9PCW,173_2018-10-18 15_56_56.scn",HuDSeN:1210,"Fetus 10243, slide 173",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SERPNI2,NCBITaxon,NM_006217,,,ENSG00000114204,SERPINI2,"HDBR_SERPINI2_ISH/10243,1,Head,9PCW,173_2018-10-18 15_56_56.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SERPINI2_ISH,"10374,1,Head,CS22,54_2018-10-18 15_55_52.scn",HuDSeN:1210,"Embryo 10374, slide 54",Homo sapiens,NCBITaxon,9606,CS22,In situ hybridisation,SERPNI2,NCBITaxon,NM_006217,,,ENSG00000114204,SERPINI2,"HDBR_SERPINI2_ISH/10374,1,Head,CS22,54_2018-10-18 15_55_52.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SERPINI2_ISH,"10957,1,head,CS21,35_2016-03-17 14_41_13.scn",HuDSeN:1210,"Embryo 10957, slide 35",Homo sapiens,NCBITaxon,9606,CS21,In situ hybridisation,SERPNI2,NCBITaxon,NM_006217,,,ENSG00000114204,SERPINI2,"HDBR_SERPINI2_ISH/10957,1,head,CS21,35_2016-03-17 14_41_13.scn",Original experimental image,Brightfield,,NBT/BCIP,Nasal epithelium (strong)
+HDBR_SOX2_ISH,"10715,2,body,CS15,15_2014-04-29 17_08_27.scn",HuDSeN:988,"Embryo 10715, slide 15",Homo sapiens,NCBITaxon,9606,CS15,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10715,2,body,CS15,15_2014-04-29 17_08_27.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10715,3,tail,CS15,8_2014-04-29 16_56_54.scn",HuDSeN:988,"Embryo 10715, slide 8",Homo sapiens,NCBITaxon,9606,CS15,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10715,3,tail,CS15,8_2014-04-29 16_56_54.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10727,1,embryo,CS13,122_2014-04-30 16_00_03.scn",HuDSeN:996,"Embryo 10727, slide 122",Homo sapiens,NCBITaxon,9606,CS13,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10727,1,embryo,CS13,122_2014-04-30 16_00_03.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10727,1,embryo,CS13,125_2014-04-30 12_09_44.scn",HuDSeN:996,"Embryo 10727, slide 125",Homo sapiens,NCBITaxon,9606,CS13,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10727,1,embryo,CS13,125_2014-04-30 12_09_44.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10727,1,embryo,CS13,130_2014-04-30 12_11_15.scn",HuDSeN:996,"Embryo 10727, slide 130",Homo sapiens,NCBITaxon,9606,CS13,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10727,1,embryo,CS13,130_2014-04-30 12_11_15.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10733,3,embryo,CS16,146_2014-04-29 17_54_08.scn",HuDSeN:990,"Embryo 10733, slide 146",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10733,3,embryo,CS16,146_2014-04-29 17_54_08.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10733,3,embryo,CS16,152_2014-04-29 17_55_04.scn",HuDSeN:990,"Embryo 10733, slide 152",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10733,3,embryo,CS16,152_2014-04-29 17_55_04.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10733,3,embryo,CS16,48_2014-04-30 12_12_30.scn",HuDSeN:990,"Embryo 10733, slide 48",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10733,3,embryo,CS16,48_2014-04-30 12_12_30.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10733,3,embryo,CS16,62_2014-04-29 17_47_39.scn",HuDSeN:990,"Embryo 10733, slide 62",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10733,3,embryo,CS16,62_2014-04-29 17_47_39.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10762,1,embryo,CS16,112_2014-04-30 09_53_30.scn",HuDSeN:991,"Embryo 10762, slide 112",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10762,1,embryo,CS16,112_2014-04-30 09_53_30.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10762,1,embryo,CS16,185_2014-04-30 09_58_16.scn",HuDSeN:991,"Embryo 10762, slide 185",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10762,1,embryo,CS16,185_2014-04-30 09_58_16.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10762,1,embryo,CS16,195_2014-04-30 09_59_57.scn",HuDSeN:991,"Embryo 10762, slide 195",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10762,1,embryo,CS16,195_2014-04-30 09_59_57.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10762,1,embryo,CS16,93_2014-04-30 12_13_37.scn",HuDSeN:991,"Embryo 10762, slide 93",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10762,1,embryo,CS16,93_2014-04-30 12_13_37.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10768,1,embryo,CS15,52_2014-04-30 09_58_55.scn",HuDSeN:258,"Embryo 10768, slide 52",Homo sapiens,NCBITaxon,9606,CS15,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10768,1,embryo,CS15,52_2014-04-30 09_58_55.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10794,1,embryo,CS20,24_2014-04-30 10_04_21.scn",HuDSeN:276,"Embryo 10794, slide 24",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10794,1,embryo,CS20,24_2014-04-30 10_04_21.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10840,1,embryo,CS17,17_2014-04-30 10_31_22.scn",HuDSeN:274,"Embryo 10840, slide 17",Homo sapiens,NCBITaxon,9606,CS17,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10840,1,embryo,CS17,17_2014-04-30 10_31_22.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10840,1,embryo,CS17,18_2014-04-30 12_32_25.scn",HuDSeN:274,"Embryo 10840, slide 18",Homo sapiens,NCBITaxon,9606,CS17,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10840,1,embryo,CS17,18_2014-04-30 12_32_25.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10840,1,embryo,CS17,9_2014-04-30 12_28_18.scn",HuDSeN:274,"Embryo 10840, slide 9",Homo sapiens,NCBITaxon,9606,CS17,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10840,1,embryo,CS17,9_2014-04-30 12_28_18.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10864,2,head,CS21,41_2014-04-30 10_57_25.scn",HuDSeN:994,"Embryo 10864, slide 41",Homo sapiens,NCBITaxon,9606,CS21,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10864,2,head,CS21,41_2014-04-30 10_57_25.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10867,3,head,CS17,59_2014-04-30 11_00_41.scn",HuDSeN:1211,"Embryo 10867, slide 59",Homo sapiens,NCBITaxon,9606,CS17,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10867,3,head,CS17,59_2014-04-30 11_00_41.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10867,3,head,CS17,63_2014-04-30 12_40_46.scn",HuDSeN:1211,"Embryo 10867, slide 63",Homo sapiens,NCBITaxon,9606,CS17,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10867,3,head,CS17,63_2014-04-30 12_40_46.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10867,3,head,CS17,68_2014-04-30 13_50_25.scn",HuDSeN:1211,"Embryo 10867, slide 68",Homo sapiens,NCBITaxon,9606,CS17,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10867,3,head,CS17,68_2014-04-30 13_50_25.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10867,3,head,CS17,70_2014-04-30 11_07_24.scn",HuDSeN:1211,"Embryo 10867, slide 70",Homo sapiens,NCBITaxon,9606,CS17,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10867,3,head,CS17,70_2014-04-30 11_07_24.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10871,1,body,CS16,27_2014-04-30 12_43_47.scn",HuDSeN:992,"Embryo 10871, slide 27",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10871,1,body,CS16,27_2014-04-30 12_43_47.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10873,2,body,CS14,13_2014-04-30 11_17_43.scn",HuDSeN:270,"Embryo 10873, slide 14",Homo sapiens,NCBITaxon,9606,CS14,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10873,2,body,CS14,13_2014-04-30 11_17_43.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10878,3,head,CS19,34_2014-04-30 12_46_19.scn",HuDSeN:993,"Embryo 10878, slide 34",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10878,3,head,CS19,34_2014-04-30 12_46_19.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10878,3,head,CS19,36_2014-04-30 12_46_58.scn",HuDSeN:993,"Embryo 10878, slide 36",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10878,3,head,CS19,36_2014-04-30 12_46_58.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10878,3,head,CS19,49_2014-04-30 12_47_33.scn",HuDSeN:993,"Embryo 10878, slide 49",Homo sapiens,NCBITaxon,9606,CS19,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10878,3,head,CS19,49_2014-04-30 12_47_33.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10905,2,body,CS20,48_2014-04-30 12_49_25.scn",HuDSeN:276,"Embryo 10905, slide 48",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10905,2,body,CS20,48_2014-04-30 12_49_25.scn",Original experimental image,Brightfield,,NBT/BCIP,Neural tissue (strong)
+HDBR_SOX2_ISH,"10905,2,body,CS20,66_2014-04-30 11_29_39.scn",HuDSeN:276,"Embryo 10905, slide 66",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10905,2,body,CS20,66_2014-04-30 11_29_39.scn",Original experimental image,Brightfield,,NBT/BCIP,Stomach (strong)
+HDBR_SOX2_ISH,"10905,2,body,CS20,70_2014-04-30 12_50_12.scn",HuDSeN:276,"Embryo 10905, slide 70",Homo sapiens,NCBITaxon,9606,CS20,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/10905,2,body,CS20,70_2014-04-30 12_50_12.scn",Original experimental image,Brightfield,,NBT/BCIP,Stomach (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,152_2014-04-29 16_34_25.scn",HuDSeN:892,"Fetus 392, slide 152",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,152_2014-04-29 16_34_25.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,155_2014-04-29 16_38_25.scn",HuDSeN:892,"Fetus 392, slide 155",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,155_2014-04-29 16_38_25.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,161_2014-04-29 16_48_33.scn",HuDSeN:892,"Fetus 392, slide 161",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,161_2014-04-29 16_48_33.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,162_2014-04-30 11_43_42.scn",HuDSeN:892,"Fetus 392, slide 162",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,162_2014-04-30 11_43_42.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,197_2014-04-29 15_52_18.scn",HuDSeN:892,"Fetus 392, slide 197",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,197_2014-04-29 15_52_18.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,214_2014-04-29 15_48_53.scn",HuDSeN:892,"Fetus 392, slide 214",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,214_2014-04-29 15_48_53.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,229_2014-04-29 15_34_28.scn",HuDSeN:892,"Fetus 392, slide 229",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,229_2014-04-29 15_34_28.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,276_2014-04-30 13_53_33.scn",HuDSeN:892,"Fetus 392, slide 276",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,276_2014-04-30 13_53_33.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,290_2014-04-29 15_40_57.scn",HuDSeN:892,"Fetus 392, slide 290",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,290_2014-04-29 15_40_57.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,300_2014-04-29 15_27_04.scn",HuDSeN:892,"Fetus 392, slide 300",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,300_2014-04-29 15_27_04.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,301_2014-04-29 15_25_20.scn",HuDSeN:892,"Fetus 392, slide 301",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,301_2014-04-29 15_25_20.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_SOX2_ISH,"392,1,head,9pcw,312_2014-04-29 15_29_08.scn",HuDSeN:892,"Fetus 392, slide 312",Homo sapiens,NCBITaxon,9606,9PCW,In situ hybridisation,SOX2,NCBITaxon,NM_003106,,697-bp fragment from the 3' untranslated region,ENSG00000181449,SOX2,"HDBR_SOX2_ISH/392,1,head,9pcw,312_2014-04-29 15_29_08.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_TBX20_ISH,"10619,1,embryo,CS15,70_2016-03-17 14_28_46.scn",HuDSeN:264,"Embryo 10619, slide 70",Homo sapiens,NCBITaxon,9606,CS15,In situ hybridisation,TBX20,NCBITaxon,NM_020417,,Nucleotides 1 - 1344,ENSG00000164532,TBX20,"HDBR_TBX20_ISH/10619,1,embryo,CS15,70_2016-03-17 14_28_46.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_TBX20_ISH,"10619,1,embryo,CS15,80_2016-03-17 14_28_00.scn",HuDSeN:264,"Embryo 10619, slide 80",Homo sapiens,NCBITaxon,9606,CS15,In situ hybridisation,TBX20,NCBITaxon,NM_020417,,Nucleotides 1 - 1344,ENSG00000164532,TBX20,"HDBR_TBX20_ISH/10619,1,embryo,CS15,80_2016-03-17 14_28_00.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_TBX20_ISH,"10619,1,embryo,CS15,90_2016-03-17 14_27_02.scn",HuDSeN:264,"Embryo 10619, slide 90",Homo sapiens,NCBITaxon,9606,CS15,In situ hybridisation,TBX20,NCBITaxon,NM_020417,,Nucleotides 1 - 1344,ENSG00000164532,TBX20,"HDBR_TBX20_ISH/10619,1,embryo,CS15,90_2016-03-17 14_27_02.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_TBX20_ISH,"10641,1,head,CS13,22_2016-03-17 14_23_30.scn",HuDSeN:266,"Embryo 10641, slide 22",Homo sapiens,NCBITaxon,9606,CS13,In situ hybridisation,TBX20,NCBITaxon,NM_020417,,Nucleotides 1 - 1344,ENSG00000164532,TBX20,"HDBR_TBX20_ISH/10641,1,head,CS13,22_2016-03-17 14_23_30.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_TBX20_ISH,"10682,1,embryo,CS13,14_2016-03-17 14_10_31.scn",HuDSeN:266,"Embryo 10682, slide 14",Homo sapiens,NCBITaxon,9606,CS13,In situ hybridisation,TBX20,NCBITaxon,NM_020417,,Nucleotides 1 - 1344,ENSG00000164532,TBX20,"HDBR_TBX20_ISH/10682,1,embryo,CS13,14_2016-03-17 14_10_31.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_TBX20_ISH,"10711,2,head,CS14,12_2016-03-17 14_11_01.scn",HuDSeN:267,"Embryo 10711, slide 12",Homo sapiens,NCBITaxon,9606,CS14,In situ hybridisation,TBX20,NCBITaxon,NM_020417,,Nucleotides 1 - 1344,ENSG00000164532,TBX20,"HDBR_TBX20_ISH/10711,2,head,CS14,12_2016-03-17 14_11_01.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_TBX20_ISH,"10733,3,body,CS16,30_2016-03-17 14_22_08.scn",HuDSeN:268,"Embryo 10733, slide 16",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,TBX20,NCBITaxon,NM_020417,,Nucleotides 1 - 1344,ENSG00000164532,TBX20,"HDBR_TBX20_ISH/10733,3,body,CS16,30_2016-03-17 14_22_08.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+HDBR_TBX20_ISH,"10733,4,embryo,cs16,59_2016-03-16 14_54_31.scn",HuDSeN:268,"Embryo 10733, slide 59",Homo sapiens,NCBITaxon,9606,CS16,In situ hybridisation,TBX20,NCBITaxon,NM_020417,,Nucleotides 1 - 1344,ENSG00000164532,TBX20,"HDBR_TBX20_ISH/10733,4,embryo,cs16,59_2016-03-16 14_54_31.scn",Original experimental image,Brightfield,,NBT/BCIP,Brain (strong)
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
