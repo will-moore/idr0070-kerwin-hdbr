@@ -55,8 +55,11 @@ with open(csv_files[0], mode='r') as csv_file:
             line_count += 1
             continue
 
-        # Read the columns we need... - batch1 has extra 'PAX6_'
-        dir_name = row[0].replace("PAX6_", "").strip()
+        # Read the columns we need...
+        dir_name = row[0].strip()
+        # batch1 has extra 'PAX6_'
+        if 'PAX6' in batch_dir:
+            dir_name = dir_name.replace("PAX6_", "")
         img_name = row[1]
         if len(dir_name) == 0:
             continue
