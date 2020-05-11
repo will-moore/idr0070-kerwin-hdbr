@@ -3,7 +3,7 @@ import os
 import glob
 
 project = "Project:name:idr0070-kerwin-hdbr/experimentA/"
-path_to_data = "/uod/idr/filesets/idr0070-kerwin-hdbr/"
+path_to_data = "/uod/idr/filesets/idr0070-kerwin-hdbr"
 
 # We don't process '20191021-original' first since it has fewer columns
 # and we use the first file to set col_names below.
@@ -59,7 +59,7 @@ with open('idr0070-experimentA-annotation.csv', mode='w') as csv_file:
             file_path = row['Comment [Image File Path]']
 
             batch_dir = row['batch_dir']
-            image_path = "%s/%s/%s" % (path_to_data, batch_dir, file_path)
+            image_path = os.path.join(path_to_data, batch_dir, file_path)
 
             # batch1 has extra 'PAX6_'
             if batch_dir == '20191021-original':
