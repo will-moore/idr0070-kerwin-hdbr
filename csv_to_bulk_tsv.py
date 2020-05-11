@@ -20,12 +20,17 @@ for dir_name in batch_dirs:
     assert len(csv_files) == 1
     print('csv_files', path_to_csv, csv_files)
 
-    with open('idr0070-experimentA-annotation.csv', mode='r') as csv_file:
+    with open(csv_files[0], mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
-        csv_reader = csv.reader(csv_file)
         rows = list(csv_reader)
         # Need to know dir_name below...
         for r in rows:
+            # print(r)
+            assert r['Dataset Name'] is not None
+            assert r["Image Name"] is not None
+            assert r["Characteristics [Developmental Stage]"]
+            assert r['Comment [Gene Symbol]']
+            assert r['Comment [Image File Path]']
             r['batch_dir'] = dir_name
         # Ignore first row (column names)
         csv_rows.extend(rows[1:])
