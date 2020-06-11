@@ -42,44 +42,28 @@ for dir_name in batch_dirs:
         print(dir_name, len(rows), 'rows')
 
 
-# We create the bulk import .tsv and the bulk metadata .csv at the same time...
-with open('idr0070-experimentA-annotation.csv', mode='w') as csv_file:
-    csv_writer = csv.writer(csv_file)
-    csv_writer.writerow(col_names)
 
-    with open('idr0070-experimentA-filePaths.tsv', mode='w') as tsv_file:
-        tsv_writer = csv.writer(tsv_file, delimiter='\t')
+with open('idr0070-experimentA-filePaths.tsv', mode='w') as tsv_file:
+    tsv_writer = csv.writer(tsv_file, delimiter='\t')
 
-        for row in csv_rows:
-            # Read the columns we need...
-            dir_name = row['Dataset Name']
-            img_name = row["Image Name"]
-            stage = row["Characteristics [Developmental Stage]"]
-            gene = row['Comment [Gene Symbol]']
-            file_path = row['Comment [Image File Path]']
+    for row in csv_rows:
+        # Read the columns we need...
+        dir_name = row['Dataset Name']
+        img_name = row["Image Name"]
+        stage = row["Characteristics [Developmental Stage]"]
+        gene = row['Comment [Gene Symbol]']
+        file_path = row['Comment [Image File Path]']
 
-            batch_dir = row['batch_dir']
-            image_path = os.path.join(path_to_data, batch_dir, file_path)
+        batch_dir = row['batch_dir']
+        image_path = os.path.join(path_to_data, batch_dir, file_path)
 
-            # batch1 has extra 'PAX6_'
-            if batch_dir == '20191021-original':
-                dir_name = dir_name.replace("PAX6_", "")
+        # batch1 has extra 'PAX6_'
+        if batch_dir == '20191021-original':
+            dir_name = dir_name.replace("PAX6_", "")
 
-            # e.g. CS15_IHC_transverse/CS15_N733_64.jpg
-            new_name = "%s/%s" % (dir_name, img_name)
+        # e.g. CS15_IHC_transverse/CS15_N733_64.jpg
+        new_name = "%s/%s" % (dir_name, img_name)
 
-            # check we're creating correct paths
-            if not os.path.exists(image_path):
-                print("Not found:", image_path)
-                continue
-
-            dataset = "%s-%s" % (gene, stage)
-            target = "%sDataset:name:%s" % (project, dataset)
-            tsv_writer.writerow([target, image_path, new_name])
-
-            # Edit rows and write to new csv
-            # convert from dict to list
-            csv_row = [row.get(name, '') for name in col_names]
-            csv_row[0] = dataset
-            csv_row[1] = new_name
-            csv_writer.writerow(csv_row)
+        dataset = "%s-%s" % (gene, stage)
+        target = "%sDataset:name:%s" % (project, dataset)
+        tsv_writer.writerow([target, image_path, new_name])
