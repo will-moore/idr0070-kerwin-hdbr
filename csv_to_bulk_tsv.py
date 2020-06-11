@@ -38,7 +38,7 @@ for dir_name in batch_dirs:
             assert r['Comment [Image File Path]']
             r['batch_dir'] = dir_name
         # Ignore first row (column names)
-        csv_rows.extend(rows[1:])
+        csv_rows.extend(rows[:])
         print(dir_name, len(rows), 'rows')
 
 
