@@ -17,7 +17,6 @@ from omero_upload import upload_ln_s
 project_name = 'idr0070-kerwin-hdbr/experimentA'
 
 OMERO_DATA_DIR = '/data/OMERO'
-OMERO_DATA_DIR = '/OMERO'
 NAMESPACE = 'openmicroscopy.org/idr/analysis/original'
 MIMETYPE = 'video/mpeg'
 
