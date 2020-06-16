@@ -3,10 +3,10 @@ import os
 import glob
 
 
-# We don't process '20191021-original' first since it has fewer columns
-# and we use the first file to set col_names below.
+# We process '20191021-original' first since it has the columns
+# we want.
 batch_dirs = [
-    '20200214-ftp', '20191021-original', '20200414-Batch3-ftp',
+    '20191021-original', '20200214-ftp', '20200414-Batch3-ftp',
     '20200422-Batch5', '20200417-Batch4', '20200423-Batch6'
 ]
 
@@ -35,6 +35,9 @@ for dir_name in batch_dirs:
             assert r['Comment [Gene Symbol]']
             assert r['Comment [Image File Path]']
             r['batch_dir'] = dir_name
+            # Only batch 1 has 'Antibody Identifier'
+            if 'Antibody Identifier' not in r:
+                r['Antibody Identifier'] = r.get('Term Source 2 Accession')
         # Ignore first row (column names)
         csv_rows.extend(rows)
         print(dir_name, len(rows), 'rows')
@@ -54,8 +57,8 @@ def write_row(writer, csv_row):
     else:
         print('duplicate', csv_row[1])
 
-
-# We create the bulk import .tsv and the bulk metadata .csv at the same time...
+mpg_count = 0
+# We create the bulk metadata .csv
 with open('idr0070-experimentA-annotation.csv', mode='w') as csv_file:
     csv_writer = csv.writer(csv_file)
     csv_writer.writerow(col_names)
@@ -105,8 +108,9 @@ with open('idr0070-experimentA-annotation.csv', mode='w') as csv_file:
             if not has_series:
                 # e.g. jpgs etc don't have series
                 csv_row[1] = new_name
-                if new_name not in imported_image_names and not new_name.endswith('.mpg'):
-                    print('Not imported', new_name)
+                if new_name not in imported_image_names:   # and not new_name.endswith('.mpg'):
+                    mpg_count += 1
+                    print('Not imported', mpg_count, new_name)
                 else:
                     write_row(csv_writer, csv_row)
 
