@@ -1,0 +1,97 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.																																																		
+																																																		
+# STUDY DESCRIPTION SECTION																																																		
+"# Section with generic information about the study including title, description, publication details (if applicable) and contact details"																																																		
+																																																		
+Comment[IDR Study Accession]	# leave blank																																																	
+Study Title	HDBR Atlas: Gene Expression in Early Human Development																																																	
+Study Type	# leave blank																																																	
+Study Type Term Source REF	# leave blank																																																	
+Study Type Term Accession	# leave blank																																																	
+Study Description	Gene expression studies in early human development from 3 to 17 post conceptional weeks (PCW)		 																																															
+Study Organism	Homo Sapiens																																																	
+Study Organism Term Source REF	NCBITaxon																																																	
+Study Organism Term Accession	# leave blank																																																	
+Study Experiments Number	147																																																	
+Study External URL	http://hdbratlas.org																																																	
+Study Public Release Date	The data is already public																																																	
+																																																		
+# Study Publication																																																		
+Study PubMed ID	PMID: 20979583																																																	
+Study Publication Title	The HUDSEN Atlas: a three-dimensional (3D) spatial framework for studying gene expression in the developing human brain.																																																	
+Study Author List	"Kerwin J, Yang Y, Merchan P, Sarma S, Thompson J, Wang X, Sandoval J, Puelles L, Baldock R, Lindsay S."																																																	
+Study PMC ID	 																																																	
+Study DOI	 https://doi.org/10.1111/j.1469-7580.2010.01290.x																																																	
+																																																		
+# Study Contacts																																																		
+Study Person Last Name	Kerwin	Cheng	Lisgo	Copp	Henderson																																													
+Study Person First Name	Janet	YuZhu	Steven	Andrew	Deborah 																																													
+Study Person Email	janet.kerwin@newcastle.ac.uk	yuzhu.cheng@newcastle.ac.uk	steven.lisgo@newcastle.ac.uk	a.copp@ucl.ac.uk	deborah.henderson@newcastle.ac.uk																																													
+Study Person Address	"HDBR, Newcastle University, international Centre for Life, Newcastle, NE1 4EP"	"HDBR, Newcastle University, international Centre for Life, Newcastle, NE1 4EP"	"HDBR, Newcastle University, international Centre for Life, Newcastle, NE1 4EP"	"HDBR, UCL Institute of Child Health, 30 Guilford Street, London WC1N 1EH"	"HDBR, Newcastle University, international Centre for Life, Newcastle, NE1 4EP"																																													
+Study Person ORCID	 																																																	
+Study Person Roles	submitter	submitter	submitter	submitter	submitter																																													
+																																																		
+# Study License and Data DOI																																																		
+Study License	# leave blank																																																	
+Study License URL	# leave blank																																																	
+Study Data Publisher	# leave blank																																																	
+Study Data DOI	# leave blank																																																	
+																																																		
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi																																														
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																																														
+																																																		
+																																																		
+# EXPERIMENT SECTION																																																		
+"# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment"																																																		
+																																																		
+Experiment Number	107	108	109	110	111	112	113	114	115	116	117	118	119	120	121	122	123	124	125	126	127	128	129	130	131	132	133	134	135	136	137	138	139	140	141	142	143	144	145	146	147	 	 	 	 	 	 	 	 	 
+Comment[IDR Experiment Name]	# leave blank																																																	
+Experiment Description	GCG Immunohistochemistry	GFAP Immunohistochemistry	GPC3 In Situ Hybridization	INS Immunohistochemistry	L1CAM In Situ Hybridization	LHX2 Immunohistochemistry at CS22	LHX2 Immunohistochemistry at CS22	LHX2 Immunohistochemistry at CS22	LRRN1 LHX2 In situ Hybridization	LYPD1 Immunohistochemistry	MAP2 Immunohistochemistry at CS17	MAP2 Immunohistochemistry at CS19	MCPH1 In Situ Hybridization	MKI67 Immunohistochemistry	MSX1 In Situ Hybridization	MYBPC3 In Situ Hybridization at CS14	MYBPC3 In Situ Hybridization at CS19	MYL2 In Situ Hybridization	NES Immunohistochemistry	NHEJ1 In Situ Hybridization	NKX2-1 Immunohistochemistry	NKX2-2 Immunohistochemistry at 10PCW	NKX2-2 Immunohistochemistry at CS18	NKX2-2 Immunohistochemistry at CS19	NKX2-2 Immunohistochemistry at CS20	NKX2-2 Immunohistochemistry at CS22	NPPA In Situ Hybridization	OLIG2 Immunohistochemistry at 12PCW	OLIG2 Immunohistochemistry at CS19	OLIG2 Immunohistochemistry at CS20	OTX1 In Situ Hybridization	OTX1 In Situ Hybridization	OTX2 In Situ Hybridization	PAX6 Immunohistochemistry at 8PCW	PAX6 Immunohistochemistry at 10PCW	PAX6 Immunohistochemistry at 12PCW	PAX6 Immunohistochemistry at 17PCW	PAX6 Immunohistochemistry at CS18	PAX6 Immunohistochemistry at CS19	PAX6 Immunohistochemistry at CS22	PAX6 In Situ Hybridization									
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 	# fill in any values you know																																														
+Experiment Example Images	"# if you have a favourite image from the screen, list it here.  We may use this image to highlight your screen"																																																	
+Experiment Imaging Method	Brightfield Microscopy	Brightfield Microscopy	Darkfield Microscopy	Brightfield Microscopy	Darkfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Darkfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy	Brightfield Microscopy									
+Experiment Imaging Method Term Source REF	Fbbi																																																	
+Experiment Imaging Method Term Accession	Immunohistochemistry	Immunohistochemistry	In Situ Hybridization	Immunohistochemistry	In Situ Hybridization	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	In Situ Hybridization	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	In Situ Hybridization	Immunohistochemistry	In Situ Hybridization	In Situ Hybridization	In Situ Hybridization	In Situ Hybridization	Immunohistochemistry	In Situ Hybridization	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	In Situ Hybridization	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	In Situ Hybridization	In Situ Hybridization	In Situ Hybridization	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	Immunohistochemistry	In Situ Hybridization									
+Experiment Comments	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	    	 																	High resolution scanned images	High resolution scanned images	High resolution scanned images	High resolution scanned images	High resolution scanned images	High resolution scanned images	High resolution scanned images	High resolution scanned images									
+																																																		
+# assay files																																																		
+Experiment Assay File	HDBR_Batch5.xlsx																																																	
+Experiment Assay File Format	tab-delimited text																																																	
+Assay Experimental Conditions	"# if there were any experimental conditions some cells were grown under as part of the study enter the information here e.g. different environmental stress conditions, or mutant background compared to wild type."																																																	
+Assay Experimental Conditions Term Source REF	# leave blank																																																	
+Assay Experimental Conditions Term Accession	# leave blank																																																	
+Quality Control Description	# a brief description of the kind of quality control measures that were taken (if applicable)																																																	
+																																																		
+# Protocols																																																		
+Protocol Name	growth protocol	treatment protocol	image aquistion and feature extraction protocol	data analysis protocol																																														
+Protocol Type	growth protocol	treatment protocol	image aquistion and feature extraction protocol	data analysis protocol																																														
+Protocol Type Term Source REF	EFO	EFO																																																
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																																																
+Protocol Description	# text about how the cells were grown here	# text about any specific treatment to the cells here	"# text about labeling, the imaging hardware and software, feature extraction methods."	# text about the analysis of the images and features if applicable																																														
+																																																		
+# Phenotypes																																																		
+Phenotype Name	# if any specific phenotypes were identified in the experiment enter the information here.  Each phenotype should be in a separate column.																																																	
+Phenotype Description	"# give a brief description of each phenotype, or how it was determined e.g. if score X is greater than Y then this phenotype assigned."																																																	
+Phenotype Score Type	"# choose from: manual, automatic"																																																	
+Phenotype Term Source REF	CMPO																																																	
+Phenotype Term Name	# if your phenotype matches a term in the Cellular Microscopy Phenotype Ontology enter it here http://www.ebi.ac.uk/CMPO																																																	
+Phenotype Term Accession	# if your phenotype matches a term in the Cellular Microscopy Phenotype Ontology enter the accession for the term here http://www.ebi.ac.uk/CMPO		 																																															
+																																																		
+																																																		
+# Feature Level Data Files (give individual file details unless there is one file per well)																																																		
+Feature Level Data File Name	# list any feature level table files here																																																	
+Feature Level Data File Format	# a description of the table																																																	
+Feature Level Data File Description	# tab-delimited text or other format																																																	
+Feature Level Data Column Name	"# list all the columns in the table, each column in the table should be in a separate column here"																																																	
+Feature Level Data Column Description	# describe the values in each column																																																	
+																																																		
+#  Processed Data Files 																																																		
+Processed Data File Name	# the name of the processed data file																																																	
+Processed Data File Format	tab-delimited text																																																	
+Processed Data File Description	# a brief description of the what is in the file																																																	
+Processed Data Column Name	"# list each of the columns in the processed data file here, each column in the table should be ain a separate column here"																																																	
+Processed Data Column Type	"# state the type of value in each column. Choose from: location, reagent identifier, gene identifier, gene symbol, gene description, data, phenotype, experimental condition"																																																	
+Processed Data Column Annotation Level	"# for data and phenotype columns enter the level of the annotation so that it is clear if the value is derived from data from a image, is averaged over many images. E.g. gene, experimental condition"																																																	
+"experimental condition and gene, phenotype, image, protein"""																																																		
+Processed Data Column Description	"# for each data and phenotype column, enter a brief description of what the value represents"																																																	
+Processed Data Column Link To Assay File	"# enter which column can be used to link the information in the processed data file to the assay file e.g. targeted protein, or gene identifier"																																																	
