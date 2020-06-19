@@ -75,7 +75,7 @@ columns:
         - name: Experimental Condition [Antibody]
           clientname: Antibody
           include: true
-          omitempty: false
+          omitempty: true
         - name: Antibody Identifier
           include: true
           omitempty: false
