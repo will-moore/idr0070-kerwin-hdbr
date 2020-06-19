@@ -34,6 +34,10 @@ columns:
   - name: Protocol REF
     include: true
 
+  - name: Comment [Antibody]
+    clientname: Antibody Comment
+    include: true
+
   - name: Comment [Probe]
     clientname: Probe
     include: true
