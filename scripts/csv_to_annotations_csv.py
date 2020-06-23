@@ -2,6 +2,20 @@ import csv
 import os
 import glob
 
+"""
+This script uses csv files for each of the batch of files uploaded.
+It combines them into a single 'idr0070-experimentA-annotation.csv'
+suitable for creating bulk annotations in IDR.
+
+It also handles the multiple images in Multi-Image-Filesets,
+creating additional rows in the annotation.csv.
+E.g. for image1.scn in the input csv, we have imported images:
+image1.scn [macro], image1.scn [1], image1.scn [2].
+
+We get the list of ALL imported images as 'imported_image_names.csv'
+
+"""
+
 
 # We process '20191021-original' first since it has the columns
 # we want.

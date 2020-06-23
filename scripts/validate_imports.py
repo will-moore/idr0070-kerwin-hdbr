@@ -1,43 +1,28 @@
 
-# import argparse
-# import sys
-
-# import omero.clients
-# from omero.cli import cli_login
-# from omero.gateway import BlitzGateway
-
-# def main(argv):
-#     parser = argparse.ArgumentParser()
-#     parser.add_argument('project_id', type=int)
-#     args = parser.parse_args(argv)
-
-#     with cli_login() as cli:
-#         conn = BlitzGateway(client_obj=cli._client)
-#         project = conn.getObject("Project", args.project_id)
-
-#         for dataset in project.listChildren():
-#             print("Dataset: ", dataset.name)
-#             images = list(dataset.listChildren())
-#             # Find filesets with 2 or more images:
-#             filesets = {}
-#             for i in images:
-#                 if i.fileset.id not in filesets:
-#                     filesets[i.fileset.id] = []
-#                 filesets[i.fileset.id].append(i)
-#             for imgs in filesets.values():
-#                 if len(imgs) > 2:
-#                     print([i.name for i in imgs])
-
-# if __name__ == '__main__':
-#     main(sys.argv[1:])
-
 import requests
 import csv
 import os
 
-url = "http://ome-idr-covid-1.openmicroscopy.org/webclient/api/datasets/?id=1109"
+"""
+This script is used to check all the imported images against the 
+bulk import filePaths.tsv to check if any failed to import.
 
-datasets = requests.get(url).json()['datasets']
+Failed imports are listed in a 'reimport.tsv' which can be used
+for re-importing just those files.
+
+It also generates a list of 'imported_image_names.csv' that is
+required by the 'csv_to_annotations_csv.py` script to know
+which imports resulted in Multi-Image-Filesets.
+
+We use the public webclient API (no login needed) which means we
+don't need ports available for OMERO API access.
+"""
+
+test_server = "http://example.openmicroscopy.org"
+project_id = 1109
+datasets_url = f'{test_server}/webclient/api/datasets/?id={project_id}'
+
+datasets = requests.get(datasets_url).json()['datasets']
 total_images = 0
 fs_images = 0
 total_filesets = 0
@@ -51,7 +36,7 @@ if not os.path.exists('imported_image_names.csv'):
             # load images
             print("Dataset", d['id'], d['name'])
             dataset_id = d['id']
-            img_url = f'http://ome-idr-covid-1.openmicroscopy.org/webclient/api/images/?id={dataset_id}'
+            img_url = f'{test_server}/webclient/api/images/?id={dataset_id}'
             images = requests.get(img_url).json()['images']
             filesets = {}
             total_images += len(images)

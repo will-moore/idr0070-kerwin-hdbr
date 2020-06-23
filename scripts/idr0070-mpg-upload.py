@@ -14,6 +14,15 @@ import omero.clients
 import omero.cli
 from omero_upload import upload_ln_s
 
+"""
+This script uploads the mpg files found in
+'idr0070-experimentA-filePaths.tsv' since these are not
+supported by Bio-Formats for regular import.
+
+They are uploaded 'in-place' and attached to the appropriate
+Dataset instead of being imported into it.
+"""
+
 project_name = 'idr0070-kerwin-hdbr/experimentA'
 
 OMERO_DATA_DIR = '/data/OMERO'

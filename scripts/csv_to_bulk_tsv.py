@@ -2,11 +2,18 @@ import csv
 import os
 import glob
 
-project = "Project:name:idr0070-kerwin-hdbr/experimentA/"
+"""
+This script uses annotation csv files for each of the batch of files uploaded.
+It combines them into a single 'idr0070-experimentA-filePaths.tsv'
+for bulk import.
+
+It creates a Dataset name for each image, based on the format:
+'gene-stage', where gene and stage are read from the csv.
+"""
+
+project_name = "Project:name:idr0070-kerwin-hdbr/experimentA/"
 path_to_data = "/uod/idr/filesets/idr0070-kerwin-hdbr"
 
-# We don't process '20191021-original' first since it has fewer columns
-# and we use the first file to set col_names below.
 batch_dirs = [
     '20200214-ftp', '20191021-original', '20200414-Batch3-ftp',
     '20200422-Batch5', '20200417-Batch4', '20200423-Batch6'
@@ -14,7 +21,6 @@ batch_dirs = [
 
 # Read the csv file from each batch, adding to single list of rows.
 csv_rows = []
-col_names = None
 for dir_name in batch_dirs:
     # Find csv file in each dir...
     path_to_csv = os.path.join(os.getcwd(), dir_name)
@@ -25,10 +31,6 @@ for dir_name in batch_dirs:
     with open(csv_files[0], mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         rows = list(csv_reader)
-        # Need to know dir_name below...
-        cols = list(rows[0].keys())
-        if col_names is None:
-            col_names = cols
         for r in rows:
             # print(r)
             assert r['Dataset Name'] is not None
@@ -40,7 +42,6 @@ for dir_name in batch_dirs:
         # Ignore first row (column names)
         csv_rows.extend(rows[:])
         print(dir_name, len(rows), 'rows')
-
 
 
 with open('idr0070-experimentA-filePaths.tsv', mode='w') as tsv_file:
@@ -64,6 +65,6 @@ with open('idr0070-experimentA-filePaths.tsv', mode='w') as tsv_file:
         # e.g. CS15_IHC_transverse/CS15_N733_64.jpg
         new_name = "%s/%s" % (dir_name, img_name)
 
-        dataset = "%s-%s" % (gene, stage)
-        target = "%sDataset:name:%s" % (project, dataset)
+        dataset_name = "%s-%s" % (gene, stage)
+        target = "%sDataset:name:%s" % (project_name, dataset_name)
         tsv_writer.writerow([target, image_path, new_name])

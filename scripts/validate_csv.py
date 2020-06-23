@@ -17,7 +17,6 @@ args = parser.parse_args(sys.argv[1:])
 print('batch_dir', args.batch_dir)
 project = "Project:name:idr0070-kerwin-hdbr/experimentA/"
 path_to_data = "/uod/idr/filesets/idr0070-kerwin-hdbr"
-# path_to_data = "/Users/wmoore/Desktop/IDR/idr0070/data/"
 
 # Batch1 example - NB: extra HDBR_PAX6 directory - handle below...
 # 20191021-original/HDBR_PAX6/10PCW_IHC_coronal/10pcw_1677_3_019_2_pax6.jpg
