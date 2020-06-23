@@ -12,6 +12,7 @@ import csv
 import os
 import omero.clients
 import omero.cli
+from omero.model import FileAnnotationI
 from omero_upload import upload_ln_s
 
 """
@@ -33,7 +34,7 @@ MIMETYPE = 'video/mpeg'
 def upload_and_link(conn, target, attachment):
     print("upload_and_link", attachment)
     fo = upload_ln_s(conn.c, attachment, OMERO_DATA_DIR, MIMETYPE)
-    fa = omero.model.FileAnnotationI()
+    fa = FileAnnotationI()
     fa.setFile(fo._obj)
     fa.setNs(omero.rtypes.rstring(NAMESPACE))
     fa = conn.getUpdateService().saveAndReturnObject(fa)

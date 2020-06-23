@@ -14,6 +14,8 @@ image1.scn [macro], image1.scn [1], image1.scn [2].
 
 We get the list of ALL imported images as 'imported_image_names.csv'
 
+Usage: run from the idr0070-kerwin-hdbr root dir:
+$ python scripts/csv_to_annotations_csv.py
 """
 
 
@@ -29,7 +31,7 @@ csv_rows = []
 col_names = None
 for dir_name in batch_dirs:
     # Find csv file in each dir...
-    path_to_csv = os.path.join(os.getcwd(), dir_name)
+    path_to_csv = os.path.join(os.getcwd(), 'experimentA', dir_name)
     csv_files = glob.glob(os.path.join(path_to_csv, "*.csv"))
     assert len(csv_files) == 1
     print('csv_files', path_to_csv, csv_files)

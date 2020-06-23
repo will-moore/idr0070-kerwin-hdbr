@@ -4,11 +4,17 @@ import argparse
 import glob
 import sys
 
-# Usage: python validate.csv 20200214-ftp
+"""
+This reads the first .csv metadata file found in cwd()/20200214-ftp
+Checks that files listed in the csv exist under path_to_data/20200214-ftp
+Also checks that files found in path_to_data/20200214-ftp are listed in the csv
 
-# This reads the first .csv metadata file found in cwd()/20200214-ftp
-# Checks that files listed in the csv exist under path_to_data/20200214-ftp
-# Also checks that files found in path_to_data/20200214-ftp are listed in the csv
+We need to run this with access to the submitted files at path_to_data.
+
+Usage: run from the idr0070-kerwin-hdbr root dir with each 'batch' dir in turn:
+e.g.
+$ python scripts/validate.csv 20191021-original
+"""
 
 parser = argparse.ArgumentParser()
 parser.add_argument('batch_dir')
@@ -33,7 +39,7 @@ path_to_data = os.path.join(path_to_data, batch_dir)
 print('path_to_data', path_to_data)
 
 # Find csv file in dir...
-path_to_csv = os.path.join(os.getcwd(), args.batch_dir)
+path_to_csv = os.path.join(os.getcwd(), 'experimentA', args.batch_dir)
 csv_files = glob.glob(os.path.join(path_to_csv, "*.csv"))
 print('csv_files', path_to_csv, csv_files)
 

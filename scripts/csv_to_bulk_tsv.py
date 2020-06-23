@@ -9,6 +9,10 @@ for bulk import.
 
 It creates a Dataset name for each image, based on the format:
 'gene-stage', where gene and stage are read from the csv.
+
+Usage: run from the idr0070-kerwin-hdbr root dir:
+$ python scripts/csv_to_bulk_tsv.py
+
 """
 
 project_name = "Project:name:idr0070-kerwin-hdbr/experimentA/"
@@ -23,10 +27,10 @@ batch_dirs = [
 csv_rows = []
 for dir_name in batch_dirs:
     # Find csv file in each dir...
-    path_to_csv = os.path.join(os.getcwd(), dir_name)
+    path_to_csv = os.path.join(os.getcwd(), 'experimentA', dir_name)
     csv_files = glob.glob(os.path.join(path_to_csv, "*.csv"))
-    assert len(csv_files) == 1
     print('csv_files', path_to_csv, csv_files)
+    assert len(csv_files) == 1
 
     with open(csv_files[0], mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
