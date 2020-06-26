@@ -19,7 +19,7 @@ Study BioImage Archive Accession
 Study Public Release Date					
 					
 # Study Publication					
-Study PubMed ID	PMID:	20979583				
+Study PubMed ID	20979583				
 Study Publication Title	The HUDSEN Atlas: a three-dimensional (3D) spatial framework for studying gene expression in the developing human brain.				
 Study Author List	Kerwin J, Yang Y, Merchan P, Sarma S, Thompson J, Wang X, Sandoval J, Puelles L, Baldock R, Lindsay S			
 Study PMC ID	 				
