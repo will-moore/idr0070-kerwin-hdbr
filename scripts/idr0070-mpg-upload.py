@@ -96,7 +96,7 @@ def main(conn):
             )
             images = list(images)
             if len(images) == 0:
-                print("Found NO jpg named", jpg_name, 'in', dataset_name)
+                print("Found NO jpg named", jpg_name, 'in', dataset_name, dataset.id)
             elif len(images) > 1:
                 print("Found multiple jpgs for", jpg_name, 'in', dataset_name)
             else:
