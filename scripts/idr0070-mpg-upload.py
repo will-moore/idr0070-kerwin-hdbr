@@ -95,7 +95,9 @@ def main(conn):
                 opts={'dataset': dataset.id}
             )
             images = list(images)
-            if len(images) == 0 and jpg_name == "HDBR_FGFR3_CS23_ISH/3Dview.jpg":
+            if len(images) == 0:
+                # Somehow 'HDBR_FGFR3_CS23_ISH/3Dview.jpg' is never found
+                # HDBR_FGFR3_CS23_ISH/3Dview.jpg name never matches - hard-code...
                 img = conn.getObject("Image", 9838638)
                 print("Found HDBR_FGFR3_CS23_ISH/3Dview.jpg", img)
                 images = [img]
