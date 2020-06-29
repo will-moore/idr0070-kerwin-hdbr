@@ -83,28 +83,28 @@ def main(conn):
                 for ann in to_delete:
                     conn.deleteObjects('Annotation', [ann.id])
 
-            # if not os.path.exists(mpg_path):
-            #     print("FILE NOT FOUND", mpg_path)
-            #     continue
+            if not os.path.exists(mpg_path):
+                print("FILE NOT FOUND", mpg_path)
+                continue
 
-            # # Find image with correct name in Dataset
-            # jpg_name = mpg_name.replace('.mpg', '.jpg')
-            # images = conn.getObjects(
-            #     "Image",
-            #     attributes={'name': jpg_name},
-            #     opts={'dataset': dataset.id}
-            # )
-            # images = list(images)
-            # if len(images) == 0:
-            #     print("Found NO jpg named", jpg_name, 'in', dataset_name)
-            # elif len(images) > 1:
-            #     print("Found multiple jpgs for", jpg_name, 'in', dataset_name)
-            # else:
-            #     image = images[0]
-            #     if not has_file_annotation(image, mpg_path):
-            #         upload_and_link(conn, image, mpg_path)
-            #     else:
-            #         print(image.name, "already has", mpg_path)
+            # Find image with correct name in Dataset
+            jpg_name = mpg_name.replace('.mpg', '.jpg')
+            images = conn.getObjects(
+                "Image",
+                attributes={'name': jpg_name},
+                opts={'dataset': dataset.id}
+            )
+            images = list(images)
+            if len(images) == 0:
+                print("Found NO jpg named", jpg_name, 'in', dataset_name)
+            elif len(images) > 1:
+                print("Found multiple jpgs for", jpg_name, 'in', dataset_name)
+            else:
+                image = images[0]
+                if not has_file_annotation(image, mpg_path):
+                    upload_and_link(conn, image, mpg_path)
+                else:
+                    print(image.name, "already has", mpg_path)
 
 
 if __name__ == '__main__':
