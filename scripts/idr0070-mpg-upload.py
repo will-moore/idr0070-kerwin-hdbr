@@ -64,6 +64,7 @@ def main(conn):
         tsv_reader = csv.reader(tsv_file, delimiter='\t')
         for row in tsv_reader:
             mpg_path = row[1]
+            mpg_name = row[2]
             if not mpg_path.endswith(".mpg"):
                 continue
 
@@ -79,10 +80,24 @@ def main(conn):
                 print("FILE NOT FOUND", mpg_path)
                 continue
 
-            if not has_file_annotation(dataset, mpg_path):
-                upload_and_link(conn, dataset, mpg_path)
+            # Find image with correct name in Dataset
+            jpg_name = mpg_name.replace('.mpg', '.jpg')
+            images = conn.getObjects(
+                "Image",
+                attributes={'name': jpg_name},
+                opts={'dataset': dataset.id}
+            )
+            images = list(images)
+            if len(images) == 0:
+                print("Found NO jpg named", jpg_name, 'in', dataset_name)
+            elif len(images) > 1:
+                print("Found multiple jpgs for", jpg_name, 'in', dataset_name)
             else:
-                print(dataset.name, "already has", mpg_path)
+                image = images[0]
+                if not has_file_annotation(image, mpg_path):
+                    upload_and_link(conn, image, mpg_path)
+                else:
+                    print(image.name, "already has", mpg_path)
 
 
 if __name__ == '__main__':
