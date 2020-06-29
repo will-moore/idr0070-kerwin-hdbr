@@ -81,7 +81,7 @@ def main(conn):
             if len(to_delete) > 0:
                 print("Deleting from ", dataset_name)
                 for ann in to_delete:
-                    conn.deleteObjects('Annotaion', [ann.id])
+                    conn.deleteObjects('Annotation', [ann.id])
 
             if not os.path.exists(mpg_path):
                 print("FILE NOT FOUND", mpg_path)
