@@ -16,7 +16,7 @@ Study Organism Term Accession	9606
 Study Experiments Number	1				
 Study External URL	http://hdbratlas.org	
 Study BioImage Archive Accession				
-Study Public Release Date					
+Study Public Release Date	2020-06-30					
 					
 # Study Publication					
 Study PubMed ID	20979583				
