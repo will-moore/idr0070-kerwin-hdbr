@@ -123,3 +123,6 @@ advanced:
     - namespace: openmicroscopy.org/mapr/phenotype
       keys:
         - Phenotype
+    - namespace: openmicroscopy.org/mapr/antibody
+      keys:
+        - Antibody Identifier
