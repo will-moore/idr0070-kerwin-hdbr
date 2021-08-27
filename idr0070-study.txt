@@ -5,9 +5,9 @@
 					
 Comment[IDR Study Accession]	idr0070				
 Study Title	HDBR Atlas: Gene Expression in Early Human Development				
-Study Type	protein localization				
-Study Type Term Source REF	EFO				
-Study Type Term Accession	GO:0008104				
+Study Type	protein localization	in-situ hybridization assay				
+Study Type Term Source REF	EFO	EFO				
+Study Type Term Accession	GO_0008104	OBI_0001686				
 Study Description	Gene expression studies in early human development from 3 to 17 post conceptional weeks (PCW).  			
 Study Key Words	Human	Embryo	Fetus	Gene Expression	Development	Immunohistochemistry	In Situ Hybridization			
 Study Organism	Homo Sapiens				
@@ -53,9 +53,9 @@ Experiment Sample Type	tissue
 Experiment Description	Immunohistochemistry and in situ hybridization analysis in early human development from 3 to 17 weeks post conception.				
 Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 	
 Experiment Example Images					
-Experiment Imaging Method	Light microscopy	Dark-field microscopy		
-Experiment Imaging Method Term Source REF	Fbbi				
-Experiment Imaging Method Term Accession	FBbi_00000345	FBbi_00000244 
+Experiment Imaging Method	bright-field microscopy	dark-field microscopy		
+Experiment Imaging Method Term Source REF	Fbbi	Fbbi				
+Experiment Imaging Method Term Accession	Fbbi_00000243	FBbi_00000244 
 Experiment Comments				
 					
 # assay files					
