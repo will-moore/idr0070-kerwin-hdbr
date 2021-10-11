@@ -10,7 +10,7 @@ Study Type Term Source REF	EFO	EFO
 Study Type Term Accession	GO_0008104	OBI_0001686				
 Study Description	Gene expression studies in early human development from 3 to 17 post conceptional weeks (PCW).  			
 Study Key Words	Human	Embryo	Fetus	Gene Expression	Development	Immunohistochemistry	In Situ Hybridization			
-Study Organism	Homo Sapiens				
+Study Organism	Homo sapiens				
 Study Organism Term Source REF	NCBITaxon				
 Study Organism Term Accession	9606				
 Study Experiments Number	1				
